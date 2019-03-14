@@ -1,4 +1,4 @@
-package com.mkyong.rest;
+package com.app.rest;
 
 public class Product {
 

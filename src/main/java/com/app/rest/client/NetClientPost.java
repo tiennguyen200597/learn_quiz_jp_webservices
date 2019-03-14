@@ -1,4 +1,4 @@
-package com.mkyong.rest.client;
+package com.app.rest.client;
 
 import java.io.BufferedReader;
 import java.io.IOException;
